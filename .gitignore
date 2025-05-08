@@ -1,0 +1,11 @@
+# Ambiente virtual
+venv/
+
+# Banco de dados SQLite local
+db.sqlite3
+
+# Arquivos de cache do Python
+__pycache__/
+
+# Diretório de IDE
+.vscode/
